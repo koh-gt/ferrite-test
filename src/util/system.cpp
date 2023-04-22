@@ -955,7 +955,7 @@ std::string ArgsManager::GetChainName() const
     if (fTestNet)
         return CBaseChainParams::TESTNET;
 
-    return GetArg("-chain", CBaseChainParams::MAIN);
+    return GetArg("-chain", CBaseChainParams::TESTNET);
 }
 
 bool ArgsManager::UseDefaultSection(const std::string& arg) const

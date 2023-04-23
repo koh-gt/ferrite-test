@@ -1,12 +1,7 @@
 # ferrite-test
+### Testnet coins are separate from mainnet.
 
 > Ferrite Core Testnet full node + wallet based on Bitcoin Core 24.0, Litecoin Core 21.2 codebase and Dash codebase. DGWv3, Taproot and MWEB enabled.
-
-| OS                        | Bit      | Name                   | Link                              | SHA256 Checksum                         |
-|--------------------|-------|---------------------|--------------------------|---------------------------------------|
-| Windows             | 64      | Setup                     | [Download](https://github.com/koh-gt/ferrite-core/releases/download/v3.0.1/ferrite-3.0.1-win64-setup.exe) | `da1accfa9800d7fb9af9c9c75d9bc3fbca66798064af969ac3a216ebf25ee04d` |
-| Windows             | 64      | Qt Wallet               | [Download](https://github.com/koh-gt/ferrite-core/releases/download/v3.0.1/ferrite-qt.exe) |  `18c4e9a26be6528ffd2134a1cacca90574cc5216ea2a068c84d2b61544fb262f` |
-| Windows, Unix       | 32 / 64 | Others                  | [Release 3.0.1](https://github.com/koh-gt/ferrite-core/releases/tag/v3.0.1) | |
 
 ## Community group links
 | ![telegram-logo](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Telegram.svg) [Ferrite Core ](https://t.me/ferrite_core) | ![reddit-logo](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Reddit.svg) [r/Ferritecoin](https://www.reddit.com/r/Ferritecoin) | ![discord-logo](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Discord.svg) [Discord](https://discord.gg/qKgF5xhS5p) | ![twitter-logo](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg) [Twitter](https://twitter.com/ferritecoin) |
